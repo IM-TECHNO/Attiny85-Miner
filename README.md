@@ -19,6 +19,9 @@ Please consider donating DUCO to username : techno
 | `-` |GND |
 
 
+## Screenshots
+
+![PCB in 3D](https://cdn.discordapp.com/attachments/1005954495664115763/1006092436432506941/unknown.png)
 
 
 
